@@ -26,3 +26,7 @@ const questions = [
         message: 'Enter the shape color (color keyword or hexadecimal):',
     },
 ];
+
+inquirer.createPromptModule(questions).then(answers => {
+    const {text, textColor, shape, shapeColor } = answers;
+})
