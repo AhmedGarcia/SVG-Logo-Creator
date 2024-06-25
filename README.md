@@ -6,7 +6,7 @@ This is a Node.js command-line application that generates a simple logo based on
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](link-to-your-video)
+[Watch the Walkthrough Video](https://drive.google.com/file/d/1IxtsrHo4LsBYEslg-EMW3bMmsbI3WdtG/view?usp=drive_link)
 
 ## Installation
 
@@ -43,3 +43,8 @@ This project is licensed under the MIT License.
    ```vbnet
     By following these steps, you should have a complete Node.js command-line application that generates an SVG logo based on user input, along with Jest tests for your shape classes.
    ```
+
+## Contact Us
+
+GitHub User: https://github.com/AhmedGarcia
+GitHub Repo: https://github.com/AhmedGarcia/SVG-Logo-Creator
