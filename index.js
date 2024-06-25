@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const shape = require('./lib/shape');
+// const shape = require('./lib/shape');
 const Circle = require('./lib/circle');
 const Square = require('./lib/square');
 const Triangle = require('./lib/triangle');
@@ -30,7 +30,7 @@ const questions = [
     },
 ];
 
-inquirer.createPromptModule(questions).then(answers => {
+inquirer.prompt(questions).then(answers => {
     const {text, textColor, shape, shapeColor } = answers;
 
     let selectedShape;
