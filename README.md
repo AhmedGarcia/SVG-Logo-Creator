@@ -6,7 +6,7 @@ This is a Node.js command-line application that generates a simple logo based on
 
 ## Walkthrough Video
 
-[Watch the Walkthrough Video](https://drive.google.com/file/d/1IxtsrHo4LsBYEslg-EMW3bMmsbI3WdtG/view?usp=drive_link)
+[Watch the Walkthrough Video](https://drive.google.com/file/d/1iF5E6uc-M9robcXwiLrFF4WW8pgG-a-c/view?usp=sharing)
 
 ## Installation
 
